@@ -1,0 +1,47 @@
+Group A
+50124 : Atletico
+50139 : Juventus
+50152 : Malmo
+2610 : Olympiacos
+
+Group B
+59856 : Basel
+7889 : Liverpool
+2603104 : Ludogorets
+50051 : Real Madrid
+
+Group C
+50023 : Monaco
+50109 : Bayer
+52826 : Zenit
+50147 : Benfica
+
+Group D
+52280 : Arsenal
+52758 : Borussia
+50067 : Galatasaray
+50074 : Anderlecht
+
+Group E
+50137 : Roma
+50037 : Bayern
+52919 : Man City
+54266 : CSKA
+
+Group F
+50143 : Ajax
+50118 : Apoel
+50080 : Barcelona!
+52747 : PSG
+
+Group G
+52914 : Chelsea
+57388 : Schalke
+57490 : Maribor
+50149 : sporting poto
+
+Group H
+50125 : Bilbao
+66168 : Bate
+50064 : Fc Porto
+52707 : Shaktar
